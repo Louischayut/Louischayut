@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Louischayut
-- 👀 I’m interested in Data Science
+- 👀 I’m aData Scientist
 - 🌱 This place is where I research and develop my coding project
 
 <!---
